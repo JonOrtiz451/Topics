@@ -1,0 +1,58 @@
+body {
+    background-color: white;
+    }
+    
+    @media only screen and (max-width: 1200px) {
+    
+    }
+    footer
+    {
+        background-color: grey;
+        height:125px;
+        margin-top: 505px;
+    }
+    header{
+        height: 100px;
+        background-color:Green;
+        
+    }
+    ul {
+        list-style-type: none;
+    }
+    .logo:hover{
+        transform: scale(1.2);
+    }
+    .logo{
+        border-radius: 50%;
+    }
+    #AlertDiv {
+        position:absolute;
+        height: 51px;
+        left: 365px;
+        top: 198px;
+        background-color:white;
+        color:black;
+    }
+    
+    #AlertDiv h1{
+        margin:auto;
+        text-align: center;
+       
+    }
+    .img {
+        border-radius: 50%;
+        float: right;
+      }
+      li {
+        display: inline;
+      }
+      a {
+        color: green;
+        text-decoration: none;
+        text-transform: uppercase;
+      }
+      a:hover {
+        background-color: grey
+    }
+
+     
