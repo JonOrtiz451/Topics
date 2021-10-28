@@ -1,0 +1,65 @@
+@media only screen and (min-device-width: 1200px){
+    Body{
+        background-image: url(wtp.png);
+        display: flex;
+        justify-content: center;
+        align-content: center;
+        
+    }
+}
+  .wrapper {
+    position:absolute; left:540px; top: 450px;
+    opacity: 0.7;
+    display:grid;
+    min-width: 100px;
+  }
+
+  .wrapper button {
+    background-color: red;
+    border: 2px outset black;
+    border-radius: 8px;
+    font-family: monospace;
+    font-size: larger;
+    font-weight: bolder;
+    font-variant: small-caps;
+    margin: 5px;
+    color: white;
+    line-height: 3em;
+}
+
+
+
+.pokemon-moves{
+  position:absolute; right: 730px; top: 200px; 
+    background-color:#0cff0c5d;
+    color:Black;
+    text-align: center;  
+    font-family: Trattatello, fantasy;
+    font-size:smaller;
+    font-weight:italic; 
+}
+#parent{
+ position:absolute; left: 680px; top:200px;
+ font-size:medium;
+ font-family:fangsong;
+ font-variant:contextual;
+ font-weight:bold;
+ 
+
+  animation: bounce 0.5s;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+}
+
+.Pokeball{
+     position:absolute; left:418px;
+}
+@keyframes bounce {
+    from { transform:  rotateY(40deg);;     }
+    to   { transform: translate3d(0, 5px, 0); }
+  }
+
+
+
+
+
