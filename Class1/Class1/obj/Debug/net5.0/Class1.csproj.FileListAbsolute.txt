@@ -1,0 +1,16 @@
+C:\Users\rozen\source\repos\Class1\Class1\bin\Debug\net5.0\Class1.exe
+C:\Users\rozen\source\repos\Class1\Class1\bin\Debug\net5.0\Class1.deps.json
+C:\Users\rozen\source\repos\Class1\Class1\bin\Debug\net5.0\Class1.runtimeconfig.json
+C:\Users\rozen\source\repos\Class1\Class1\bin\Debug\net5.0\Class1.runtimeconfig.dev.json
+C:\Users\rozen\source\repos\Class1\Class1\bin\Debug\net5.0\Class1.dll
+C:\Users\rozen\source\repos\Class1\Class1\bin\Debug\net5.0\ref\Class1.dll
+C:\Users\rozen\source\repos\Class1\Class1\bin\Debug\net5.0\Class1.pdb
+C:\Users\rozen\source\repos\Class1\Class1\obj\Debug\net5.0\Class1.csproj.AssemblyReference.cache
+C:\Users\rozen\source\repos\Class1\Class1\obj\Debug\net5.0\Class1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rozen\source\repos\Class1\Class1\obj\Debug\net5.0\Class1.AssemblyInfoInputs.cache
+C:\Users\rozen\source\repos\Class1\Class1\obj\Debug\net5.0\Class1.AssemblyInfo.cs
+C:\Users\rozen\source\repos\Class1\Class1\obj\Debug\net5.0\Class1.csproj.CoreCompileInputs.cache
+C:\Users\rozen\source\repos\Class1\Class1\obj\Debug\net5.0\Class1.dll
+C:\Users\rozen\source\repos\Class1\Class1\obj\Debug\net5.0\ref\Class1.dll
+C:\Users\rozen\source\repos\Class1\Class1\obj\Debug\net5.0\Class1.pdb
+C:\Users\rozen\source\repos\Class1\Class1\obj\Debug\net5.0\Class1.genruntimeconfig.cache
