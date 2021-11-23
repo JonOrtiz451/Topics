@@ -1,0 +1,171 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+/* Provide sufficient contrast against white background */
+a {
+  color: violet;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: rebeccapurple;
+  border-color: darkmagenta;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: purple;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+    text-emphasis-color:white;
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+    box-shadow: 0 .25rem .75rem violet;
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+    background-image:url(../Content/Images/synth2.gif);
+    /*background-image:url(../Content/Images/synth.gif);*/
+    background-size:cover;
+}   
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px; /* Vertically center the text there */
+  background-color:rebeccapurple;
+}
+button.github {
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+    position: absolute;
+    left: 900px;
+    top: 460px;
+    border-radius: 10px;
+    background-image: url(../Content/Images/gitlogo.png);
+    background-size: contain;
+}
+
+p.projectdesc {
+    position: absolute;
+    width: 600px;
+    height: 100px;
+    left: 160px;
+    top: 540px;
+}
+
+h1.projectshead {
+    position: absolute;
+    width: 200px;
+    height: 100px;
+    left: 875px;
+    top: 230px;
+}
+
+p.privacy {
+    font-size: larger;
+    position: absolute;
+    width: 420px;
+    height: 100px;
+    left: 770px;
+    top: 390px;
+    color: antiquewhite;
+}
+h1.Galleryhead {
+    position: absolute;
+    width: 200px;
+    height: 100px;
+    left: 885px;
+    top: 230px;
+}
+h1.privacyhead {
+    position: absolute;
+    width: auto;
+    height: 100px;
+    left: 825px;
+    top: 230px;
+}
+button.linkedin {
+    width: 60px;
+    height: 55px;
+    background-color: aquamarine;
+    position: absolute;
+    left: 780px;
+    top: 500px;
+    border-radius: 10px;
+    background-image: url(../Content/Images/linkedlogo.gif);
+    background-size: contain;
+}
+
+button.email {
+    width: 60px;
+    height: 55px;
+    background-color: aquamarine;
+    position: absolute;
+    left: 1080px;
+    top: 500px;
+    border-radius: 10px;
+    background-image: url(../Content/Images/maillogo.gif);
+    background-size: contain;
+}
+h2.emailhead {
+    font-size: larger;
+    position: absolute;
+    left: 1080px;
+    top: 476px;
+}
+h3.linkedinhead {
+    font-size: larger;
+    position: absolute;
+    left: 773px;
+    top: 476px;
+}
+h2.name {
+    font-size: larger;
+    font-style: italic;
+    position: absolute;
+    left: 820px;
+    top: 186px;
+}
+
+
