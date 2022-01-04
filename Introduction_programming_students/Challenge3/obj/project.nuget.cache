@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8PJ7yZAxrZMMJjzNoSFWIxKTyQjpLd+RVzsCrvUMxstqWYbDiPK8Psv2v6tG+jsMbVh7LohmJChwN9e4/Ry6Jg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rozen\\OneDrive\\Documents\\GitHub\\Introduction_programming_students\\Challenge3\\Challenge3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rozen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
