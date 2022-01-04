@@ -1,0 +1,16 @@
+C:\Users\rozen\source\repos\Flight\Flight\bin\Debug\net5.0\Flight.exe
+C:\Users\rozen\source\repos\Flight\Flight\bin\Debug\net5.0\Flight.deps.json
+C:\Users\rozen\source\repos\Flight\Flight\bin\Debug\net5.0\Flight.runtimeconfig.json
+C:\Users\rozen\source\repos\Flight\Flight\bin\Debug\net5.0\Flight.runtimeconfig.dev.json
+C:\Users\rozen\source\repos\Flight\Flight\bin\Debug\net5.0\Flight.dll
+C:\Users\rozen\source\repos\Flight\Flight\bin\Debug\net5.0\ref\Flight.dll
+C:\Users\rozen\source\repos\Flight\Flight\bin\Debug\net5.0\Flight.pdb
+C:\Users\rozen\source\repos\Flight\Flight\obj\Debug\net5.0\Flight.csproj.AssemblyReference.cache
+C:\Users\rozen\source\repos\Flight\Flight\obj\Debug\net5.0\Flight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rozen\source\repos\Flight\Flight\obj\Debug\net5.0\Flight.AssemblyInfoInputs.cache
+C:\Users\rozen\source\repos\Flight\Flight\obj\Debug\net5.0\Flight.AssemblyInfo.cs
+C:\Users\rozen\source\repos\Flight\Flight\obj\Debug\net5.0\Flight.csproj.CoreCompileInputs.cache
+C:\Users\rozen\source\repos\Flight\Flight\obj\Debug\net5.0\Flight.dll
+C:\Users\rozen\source\repos\Flight\Flight\obj\Debug\net5.0\ref\Flight.dll
+C:\Users\rozen\source\repos\Flight\Flight\obj\Debug\net5.0\Flight.pdb
+C:\Users\rozen\source\repos\Flight\Flight\obj\Debug\net5.0\Flight.genruntimeconfig.cache
